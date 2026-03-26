@@ -17,7 +17,7 @@ An interactive, local-first dashboard built with **Python** and **Streamlit** to
 ## 🛠️ Requirements
 
 To run this application, you will need:
-* **Python 3.8+**
+* **Python 3**
 * **Libraries**: `streamlit`, `duckdb`, `pandas`, `pymupdf` (fitz), `plotly`, `numpy`.
 
 ## 🚀 Installation & Usage
